@@ -1,0 +1,123 @@
+
+body {
+    background-color: #EBF0F6;
+        height: 2000px;
+}
+header{
+	margin: auto;
+	width: 980;
+	text-align:center;
+}
+header h1{
+	font-size:100px;
+	font-stretch: wider;
+	font-family: serif;
+	padding-bottom: 131px;
+	text-shadow: 0px 2px 2px rgba(150, 150, 150, 1);
+}
+header h2{
+	font-size: 45px;
+}
+#content{
+	margin: auto;
+	width: 980px;
+}
+#articleForm{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+#logoutBtn{
+	margin-left:80%;
+	font-size:25px;
+}
+#adminNav{
+	text-decoration: underline;
+}
+#adminNav a{
+	padding-left:10px;
+}
+#adminNavActive{
+	color: black;	
+	font-weight: bold;
+}
+#loginForm{
+	width: 300px;
+}
+#articleButton{
+	margin-left:91%;
+}
+#regButton{
+	margin-left:91%;
+}
+#registerDiv{
+	border-top: 1px solid black;
+}
+.article{
+	margin-bottom:60px;
+	box-shadow: 4px 4px 22px 0px rgba(0,0,0,.25);
+}
+.articleTitle a{
+	color:black;
+}
+.articleText{
+	width:68%;
+	margin-left:20px;
+	border-bottom: 1px dashed rgb(197, 196, 196);
+	border-top: 1px dashed rgb(197, 196, 196);
+	padding: 10px;
+	font-size: 20px;
+	font-family:serif;
+	
+}
+.article p{
+	
+}
+.article h3{
+	padding-top:33px;
+	margin-left:45px;
+	font-size:50px;
+	font-weight: 870;
+}
+.articleFooter{
+	font-size:13px; 
+	text-align:right;
+}
+.articleFooter p{
+	font-size:13px; 
+}
+.articleFile{
+	padding:18px;
+}
+.article img{
+	margin: auto;
+	border: 1px solid black;
+}
+.articleLink{
+	color: blue;
+}
+
+#deleteArticleBtn{
+	float:right;
+}
+#editArticleBtn{
+	margin-left: 89%;
+}
+.editUser{
+	text-align:right;	
+}
+#editUserBtn{
+	margin-left:88%;
+}
+#editUserPasswordBtn{
+	margin-left:88%;
+}
+
+
+
+
+
+
+
+
+
+
